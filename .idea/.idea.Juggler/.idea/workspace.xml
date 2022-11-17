@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c50b1e97-c19e-47b1-ae8f-3683d4c019eb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MenuScene/Rotate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameScene/MoveSphere.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameScene/MoveArm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameScene/Restart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MenuScene/Choose.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameScene/HighScore.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameScene/Game.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameScene/BackToMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MenuScene/nextPage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameScene/PauseScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MenuScene/Highest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MenuScene/Buy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MenuScene/Coins.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MenuScene/Menu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameScene/MoneyScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MenuScene/StartEndlessMod.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameScene/Bonus.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MenuScene/RotateSphere.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MenuScene/whichSphere.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameScene/Score.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MenuScene/tutorialScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameScene/SpawnSphere.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MenuScene/CloseShop.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MenuScene/Shop.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameScene/EndGameBGScore.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/MoveRightArm.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LeftHand.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RightHand.cs" />
+        <option value="$PROJECT_DIR$/Assets/Restart.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Restart.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MoveLeft.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MoveRight.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Score.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SpawnSphere.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MoveSphere.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HighScore.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuScene/ScrollShop.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameScene/MoveLeft.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuScene/Spawn.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuScene/whichSphere.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuScene/Animation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuScene/Buy2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuScene/Buy3.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuScene/Rotate2Sphere.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuScene/Rotate3Sphere.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuScene/Rotate1Sphere.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameScene/MoveRight.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuScene/Buy1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameScene/nextPage.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuScene/Highest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuScene/LivesAndBonus.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameScene/HighScore.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameScene/iconBonus.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuScene/Rotate.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuScene/Choose.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuScene/StartEndlessMod.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuScene/nextPage.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameScene/Bonus.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuScene/CloseShop.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuScene/RotateSphere.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuScene/Buy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuScene/Shop.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameScene/SpawnSphere.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameScene/BackToMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuScene/Coins.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameScene/Restart.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameScene/Score.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameScene/EndGameBGScore.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameScene/PauseScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameScene/MoveArm.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameScene/Game.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuScene/tutorialScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameScene/MoneyScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuScene/Menu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameScene/MoveSphere.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZDVkUx1xBm6HYGyIRFPl42M18R" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c50b1e97-c19e-47b1-ae8f-3683d4c019eb" name="Default Changelist" comment="" />
+      <created>1584373797353</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584373797353</updated>
+      <workItem from="1584373807617" duration="472000" />
+      <workItem from="1584374376127" duration="71000" />
+      <workItem from="1584374537554" duration="73000" />
+      <workItem from="1584374645857" duration="1072000" />
+      <workItem from="1584375789079" duration="386000" />
+      <workItem from="1584376264465" duration="1406000" />
+      <workItem from="1584892130062" duration="11473000" />
+      <workItem from="1584948778823" duration="222000" />
+      <workItem from="1584982324235" duration="4814000" />
+      <workItem from="1585036470476" duration="2824000" />
+      <workItem from="1585042592272" duration="1375000" />
+      <workItem from="1585070906194" duration="8505000" />
+      <workItem from="1585124198044" duration="2050000" />
+      <workItem from="1585150034996" duration="718000" />
+      <workItem from="1585151024425" duration="3959000" />
+      <workItem from="1585212056795" duration="718000" />
+      <workItem from="1585228101594" duration="3736000" />
+      <workItem from="1585384225551" duration="526000" />
+      <workItem from="1585387948475" duration="5256000" />
+      <workItem from="1585506045282" duration="1084000" />
+      <workItem from="1585586784014" duration="4032000" />
+      <workItem from="1585771981873" duration="2350000" />
+      <workItem from="1586767608324" duration="12375000" />
+      <workItem from="1588106386531" duration="5269000" />
+      <workItem from="1588148320410" duration="7080000" />
+      <workItem from="1595605824563" duration="2981000" />
+      <workItem from="1597137782445" duration="358000" />
+      <workItem from="1597303297632" duration="807000" />
+      <workItem from="1597659402321" duration="6096000" />
+      <workItem from="1597739386780" duration="2708000" />
+      <workItem from="1597745015457" duration="49000" />
+      <workItem from="1597922037633" duration="645000" />
+      <workItem from="1598119236121" duration="1979000" />
+      <workItem from="1598121465490" duration="7562000" />
+      <workItem from="1598522607855" duration="3920000" />
+      <workItem from="1598688860937" duration="1931000" />
+      <workItem from="1598810023505" duration="799000" />
+      <workItem from="1599119597146" duration="1147000" />
+      <workItem from="1600237533229" duration="6522000" />
+      <workItem from="1600324833718" duration="4261000" />
+      <workItem from="1601902246050" duration="3333000" />
+      <workItem from="1601915036523" duration="4710000" />
+      <workItem from="1602596733647" duration="4420000" />
+      <workItem from="1604483968652" duration="2034000" />
+      <workItem from="1604734607487" duration="2653000" />
+      <workItem from="1605637306829" duration="583000" />
+      <workItem from="1606326269513" duration="3514000" />
+      <workItem from="1606414280541" duration="2515000" />
+      <workItem from="1606550714149" duration="672000" />
+      <workItem from="1606661078649" duration="588000" />
+      <workItem from="1606662417453" duration="2664000" />
+      <workItem from="1607190817975" duration="3555000" />
+      <workItem from="1607714119977" duration="2056000" />
+      <workItem from="1608573760189" duration="1999000" />
+      <workItem from="1612323941011" duration="3227000" />
+      <workItem from="1613201651983" duration="10644000" />
+      <workItem from="1613469611824" duration="2860000" />
+      <workItem from="1613497407098" duration="1562000" />
+      <workItem from="1613533543015" duration="552000" />
+      <workItem from="1613913292652" duration="2505000" />
+      <workItem from="1613930534048" duration="1119000" />
+      <workItem from="1624034196112" duration="1216000" />
+      <workItem from="1626267927901" duration="2382000" />
+      <workItem from="1633715540398" duration="62000" />
+      <workItem from="1640770691063" duration="619000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state x="361" y="67" key="#Notifications" timestamp="1633715581789">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="361" y="67" key="#Notifications/0.0.1536.816/1920.162.1093.566@0.0.1536.816" timestamp="1633715581789" />
+  </component>
+</project>
